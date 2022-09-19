@@ -1,9 +1,0 @@
-image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
-images.jpg,C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Test_Images\images.jpg,36,30,115,96,0,0.32766905426979065,282,179
-images.jpg,C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Test_Images\images.jpg,35,43,215,127,0,0.524820864200592,282,179
-melanoma.png,C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Test_Images\melanoma.png,332,176,605,357,1,0.6620257496833801,921,597
-psoriasis.jpg,C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Test_Images\psoriasis.jpg,625,382,795,566,0,0.29966866970062256,1200,630
-psoriasis.jpg,C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Test_Images\psoriasis.jpg,646,222,785,543,0,0.5110622644424438,1200,630
-psoriasis.jpg,C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Test_Images\psoriasis.jpg,359,374,507,555,0,0.6486866474151611,1200,630
-test.jpg,C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Test_Images\test.jpg,273,139,624,510,2,0.364669531583786,800,534
-test.jpg,C:\Users\HP\Desktop\yolo_structure\Data\Source_Images\Test_Images\test.jpg,275,189,506,365,2,0.5666652917861938,800,534
